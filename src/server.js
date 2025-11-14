@@ -112,8 +112,8 @@ async function updateMetadata(userId) {
     // just generate some random data. 
     metadata = {
       cookieseaten: 1483,
-      allergictonuts: 0, // 0 for false, 1 for true
-      firstcookiebaked: '2025-11-14',
+      allergictonuts: 1, // 0 for false, 1 for true
+      firstcookiebaked: '2005-07-28',
     };
   } catch (e) {
     e.message = `Error fetching external data: ${e.message}`;
