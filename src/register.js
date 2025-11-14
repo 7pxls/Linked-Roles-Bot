@@ -14,9 +14,9 @@ const body = [
     type: 2,
   },
   {
-    key: 'allergictonuts',
+    key: 'sreemanscafe',
     name: 'Sreeman\'s Cafe',
-    description: 'Is Allergic To Nuts',
+    description: 'Get A Cookie',
     type: 7,
   },
 ];
