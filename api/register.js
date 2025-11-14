@@ -20,7 +20,7 @@ export default async function handler(req, res) {
         type: 2
       },
       {
-        key: 'allergictonuts',
+        key: 'sreemanscafe',
         name: "Sreeman's Café",
         description: 'Get A Cookie',
         type: 7
