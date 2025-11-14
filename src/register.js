@@ -19,12 +19,6 @@ const body = [
     description: 'Is Allergic To Nuts',
     type: 7,
   },
-  {
-    key: 'bakingsince',
-    name: 'Baking Since',
-    description: 'Days since baking their first cookie',
-    type: 6,
-  },
 ];
 
 const response = await fetch(url, {
