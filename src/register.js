@@ -15,7 +15,7 @@ const body = [
   },
   {
     key: 'allergictonuts',
-    name: 'Allergic To Nuts',
+    name: 'Sreeman\'s Cafe',
     description: 'Is Allergic To Nuts',
     type: 7,
   },
