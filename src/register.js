@@ -14,10 +14,16 @@ const body = [
     type: 2,
   },
   {
-    key: 'sreemanscafe',
-    name: 'Sreeman\'s Cafe',
-    description: 'Get A Cookie',
+    key: 'allergictonuts',
+    name: 'Allergic To Nuts',
+    description: 'Is Allergic To Nuts',
     type: 7,
+  },
+  {
+    key: 'bakingsince',
+    name: 'Baking Since',
+    description: 'Days since baking their first cookie',
+    type: 6,
   },
 ];
 
